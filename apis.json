@@ -1,0 +1,57 @@
+{
+    "name": "RACO Barcode",
+    "description": "RACO Industries provides Barcode, Card, and GPS Solutions tailored for your business's unique needs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1124-raco-barcode.jpg",
+    "tags": [
+        "have api",
+        "isp",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/raco-barcode\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RACO Barcode",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1124-raco-barcode.jpg",
+            "humanURL": "http:\/\/www.racoindustries.com\/barcodegenerator\/web-service-api.aspx",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/raco-barcode-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.racoindustries.com\/barcodegenerator\/web-service-api.aspx"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/raco-industries"
+        },
+        {
+            "type": "Email",
+            "url": "ServiceAdmins@racoindustries.com"
+        },
+        {
+            "type": "Email",
+            "url": "ContractsManagement@racoindustries.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@racoindustries.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/racoindustries"
+        }
+    ]
+}
